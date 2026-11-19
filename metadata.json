@@ -1,0 +1,6 @@
+{
+  "name": "Automatic Plant Watering System — Arduino Uno Mini Project",
+  "description": "Published mini project webpage for the Automatic Plant Watering System using Arduino Uno and Sensors, featuring a live moisture simulator, circuit pinouts, Arduino source code, and a scannable QR project slip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
